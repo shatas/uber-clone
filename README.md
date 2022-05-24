@@ -25,7 +25,6 @@ In order map to work you will need to have GOOGLE_MAPS_APIKEY in the .env file;
 
 # yarn install
 start from scratch
+
 #npm run ios or npm run android
 start virtual simulator
-
-
